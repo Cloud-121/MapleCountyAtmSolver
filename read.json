@@ -1,1 +1,4 @@
-allow
+{
+  "allow": true,
+  "version": 1.0
+}
