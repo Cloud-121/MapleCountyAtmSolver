@@ -18,7 +18,9 @@ You can either use the GitHub release or download the requirements from `require
 
 1. Download the requirements:
 
+```
 pip install -r requirements.txt
+```
 
 2. Install `pytesseract`:
 - Find a pre-built Windows installer for `pytesseract` or build it yourself. You can download it from [Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki).
