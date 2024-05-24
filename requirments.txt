@@ -1,0 +1,8 @@
+opencv-python
+pytesseract
+Pillow
+pyautogui
+pydirectinput
+pynput
+pygame
+requests
