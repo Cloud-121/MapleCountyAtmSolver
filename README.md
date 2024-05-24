@@ -29,7 +29,7 @@ pip install -r requirements.txt
   pip install pytesseract
   ```
 
-3. Once downloaded, install pytesseract inside the app in a folder named tescent.
+3. Once downloaded, install tesseract inside the app in a folder named tescent.
 
 
 ## License
