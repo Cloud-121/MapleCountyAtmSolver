@@ -169,8 +169,6 @@ tj.start()
 
 # Function to capture screenshot of the active window
 def capture_screenshot():
-    # Wait for 5 seconds to allow user to switch to the desired window
-    time.sleep(2)
     
     # Capture the screenshot of the entire screen
     screenshot = ImageGrab.grab()
